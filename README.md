@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+All my repos are private, so nothing to see here.
+
 <!--
 **sammy2821/sammy2821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
